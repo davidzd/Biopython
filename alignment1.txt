@@ -1,0 +1,218 @@
+ReadName: r1	Position: 1084	Alignment: TCCTAC	Strand: +	Number of Alignments: 	2
+ReadName: r2	Position: 149	Alignment: TAGCGC	Strand: +	Number of Alignments: 	2
+ReadName: r3	Position: 20	Alignment: AACGGG	Strand: +	Number of Alignments: 	1
+ReadName: r4	PositionL 34	Alignment: ACAGAG	Strand: -	Number of Alignments: 	2
+ReadName: r5	Position: 82	Alignment: TTACC	Strand: +	Number of Alignments: 	11
+ReadName: r6	PositionL 273	Alignment: TTTTTC	Strand: -	Number of Alignments: 	5
+ReadName: r7	Position: 541	Alignment: CGTATT	Strand: +	Number of Alignments: 	3
+ReadName: r8	Position: 755	Alignment: CGCGCG	Strand: +	Number of Alignments: 	2
+ReadName: r9	Position: 103	Alignment: AAATTT	Strand: +	Number of Alignments: 	2
+ReadName: r10	PositionL 121	Alignment: TAGTGA	Strand: -	Number of Alignments: 	1
+ReadName: r11	Position: 133	Alignment: TTAACC	Strand: +	Number of Alignments: 	1
+ReadName: r12	PositionL 153	Alignment: CTGTGC	Strand: -	Number of Alignments: 	1
+ReadName: r13	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r14	PositionL 839	Alignment: ACTCAG	Strand: -	Number of Alignments: 	1
+ReadName: r15	Position: 49	Alignment: AAAAAG	Strand: +	Number of Alignments: 	4
+ReadName: r16	Position: 202	Alignment: AGCACC	Strand: +	Number of Alignments: 	5
+ReadName: r17	Position: 243	Alignment: CGGTGC	Strand: +	Number of Alignments: 	2
+ReadName: r18	PositionL 78	Alignment: AACCAG	Strand: -	Number of Alignments: 	1
+ReadName: r19	Position: 732	Alignment: CATTAT	Strand: +	Number of Alignments: 	1
+ReadName: r20	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r21	Position: 417	Alignment: TGCCAG	Strand: +	Number of Alignments: 	3
+ReadName: r22	PositionL 1237	Alignment: GTCTTC	Strand: -	Number of Alignments: 	1
+ReadName: r23	Position: 1285	Alignment: ATGTTC	Strand: +	Number of Alignments: 	1
+ReadName: r24	PositionL 1294	Alignment: AGAAAC	Strand: -	Number of Alignments: 	1
+ReadName: r25	Position: 112	Alignment: TGACTT	Strand: +	Number of Alignments: 	1
+ReadName: r26	PositionL 124	Alignment: ATTTAG	Strand: -	Number of Alignments: 	1
+ReadName: r27	PositionL 193	Alignment: GCGTTT	Strand: -	Number of Alignments: 	2
+ReadName: r28	PositionL 583	Alignment: CCCCGG	Strand: -	Number of Alignments: 	2
+ReadName: r29	Position: 864	Alignment: AAGCCG	Strand: +	Number of Alignments: 	1
+ReadName: r30	PositionL 880	Alignment: GTGATC	Strand: -	Number of Alignments: 	1
+ReadName: r31	Position: 337	Alignment: ATGCGA	Strand: +	Number of Alignments: 	2
+ReadName: r32	PositionL 1125	Alignment: AGAACT	Strand: -	Number of Alignments: 	1
+ReadName: r33	PositionL 4	Alignment: TGAAAA	Strand: -	Number of Alignments: 	4
+ReadName: r34	PositionL 503	Alignment: GGCCGC	Strand: -	Number of Alignments: 	1
+ReadName: r35	Position: 1307	Alignment: GGATGA	Strand: +	Number of Alignments: 	1
+ReadName: r36	PositionL 1318	Alignment: GACCAT	Strand: -	Number of Alignments: 	1
+ReadName: r37	Position: 349	Alignment: AAGTTC	Strand: +	Number of Alignments: 	3
+ReadName: r38	PositionL 359	Alignment: ATGTAC	Strand: -	Number of Alignments: 	1
+ReadName: r39	Position: 612	Alignment: TTTCGT	Strand: +	Number of Alignments: 	1
+ReadName: r40	Position: 126	Alignment: AAATAC	Strand: +	Number of Alignments: 	3
+ReadName: r41	Position: 127	Alignment: AATACT	Strand: +	Number of Alignments: 	1
+ReadName: r42	PositionL 143	Alignment: TGCCTA	Strand: -	Number of Alignments: 	1
+ReadName: r43	PositionL 354	Alignment: CCGCCG	Strand: -	Number of Alignments: 	4
+ReadName: r44	PositionL 586	Alignment: GAACCC	Strand: -	Number of Alignments: 	1
+ReadName: r45	Position: 33	Alignment: TCTCTG	Strand: +	Number of Alignments: 	2
+ReadName: r46	PositionL 49	Alignment: CTTTTT	Strand: -	Number of Alignments: 	4
+ReadName: r47	Position: 492	Alignment: AAAAAC	Strand: +	Number of Alignments: 	2
+ReadName: r48	Position: 245	Alignment: GTGCGG	Strand: +	Number of Alignments: 	4
+ReadName: r49	Position: 447	Alignment: CTCTGC	Strand: +	Number of Alignments: 	2
+ReadName: r50	PositionL 978	Alignment: GCAGCC	Strand: -	Number of Alignments: 	1
+ReadName: r51	Position: 346	Alignment: TTGAAG	Strand: +	Number of Alignments: 	2
+ReadName: r52	PositionL 1087	Alignment: CTGGTA	Strand: -	Number of Alignments: 	1
+ReadName: r53	Position: 131	Alignment: CTTTA	Strand: +	Number of Alignments: 	3
+ReadName: r54	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r55	Position: 1228	Alignment: AGCCGT	Strand: +	Number of Alignments: 	1
+ReadName: r56	PositionL 1238	Alignment: CGTCTT	Strand: -	Number of Alignments: 	1
+ReadName: r57	Position: 137	Alignment: CCAATA	Strand: +	Number of Alignments: 	2
+ReadName: r58	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r59	Position: 8	Alignment: CATTC	Strand: +	Number of Alignments: 	2
+ReadName: r60	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r61	PositionL 83	Alignment: CAGGTA	Strand: -	Number of Alignments: 	4
+ReadName: r62	PositionL 252	Alignment: CGTCAG	Strand: -	Number of Alignments: 	2
+ReadName: r63	Position: 837	Alignment: TGCTGA	Strand: +	Number of Alignments: 	2
+ReadName: r64	PositionL 905	Alignment: CGGTGA	Strand: -	Number of Alignments: 	1
+ReadName: r65	Position: 75	Alignment: GAACTG	Strand: +	Number of Alignments: 	3
+ReadName: r66	PositionL 945	Alignment: TTGCGT	Strand: -	Number of Alignments: 	1
+ReadName: r67	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r68	PositionL 232	Alignment: TGTGGT	Strand: -	Number of Alignments: 	1
+ReadName: r69	PositionL 581	Alignment: CCGGCT	Strand: -	Number of Alignments: 	2
+ReadName: r70	Position: 207	Alignment: CACCAT	Strand: +	Number of Alignments: 	5
+ReadName: r71	Position: 915	Alignment: TAATGA	Strand: +	Number of Alignments: 	1
+ReadName: r72	Position: 205	Alignment: ACCACC	Strand: +	Number of Alignments: 	5
+ReadName: r73	Position: 70	Alignment: CTTCT	Strand: +	Number of Alignments: 	2
+ReadName: r74	PositionL 87	Alignment: ACGGCA	Strand: -	Number of Alignments: 	2
+ReadName: r75	Position: 991	Alignment: CGCGCC	Strand: +	Number of Alignments: 	1
+ReadName: r76	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r77	Position: 504	Alignment: CGGCCA	Strand: +	Number of Alignments: 	2
+ReadName: r78	PositionL 987	Alignment: CGTAAA	Strand: -	Number of Alignments: 	1
+ReadName: r79	Position: 1248	Alignment: ACCGGT	Strand: +	Number of Alignments: 	2
+ReadName: r80	PositionL 1263	Alignment: TTGGAA	Strand: -	Number of Alignments: 	1
+ReadName: r81	Position: 343	Alignment: GTGTTG	Strand: +	Number of Alignments: 	2
+ReadName: r82	PositionL 355	Alignment: ACCGCC	Strand: -	Number of Alignments: 	2
+ReadName: r83	Position: 40	Alignment: GTGGAT	Strand: +	Number of Alignments: 	1
+ReadName: r84	PositionL 54	Alignment: ACACTC	Strand: -	Number of Alignments: 	2
+ReadName: r85	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r86	PositionL 630	Alignment: TGGGCA	Strand: -	Number of Alignments: 	1
+ReadName: r87	PositionL 633	Alignment: ATTTGG	Strand: -	Number of Alignments: 	2
+ReadName: r88	PositionL 1018	Alignment: AACGTC	Strand: -	Number of Alignments: 	1
+ReadName: r89	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r90	Position: 349	Alignment: AAGTTC	Strand: +	Number of Alignments: 	3
+ReadName: r91	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r92	PositionL 820	Alignment: AGATTC	Strand: -	Number of Alignments: 	1
+ReadName: r93	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r94	PositionL 942	Alignment: CGTCCA	Strand: -	Number of Alignments: 	2
+ReadName: r95	Position: 91	Alignment: GTGAGT	Strand: +	Number of Alignments: 	1
+ReadName: r96	Position: 102	Alignment: AAAATT	Strand: +	Number of Alignments: 	3
+ReadName: r97	Position: 784	Alignment: CCGGTC	Strand: +	Number of Alignments: 	2
+ReadName: r98	PositionL 365	Alignment: CCACTG	Strand: -	Number of Alignments: 	2
+ReadName: r99	PositionL 253	Alignment: GCGTCA	Strand: -	Number of Alignments: 	2
+ReadName: r100	PositionL 324	Alignment: ACCTCG	Strand: -	Number of Alignments: 	3
+ReadName: r101	PositionL 421	Alignment: CTGCCT	Strand: -	Number of Alignments: 	2
+ReadName: r102	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r103	Position: 1060	Alignment: GATGCG	Strand: +	Number of Alignments: 	1
+ReadName: r104	PositionL 616	Alignment: ATCGAC	Strand: -	Number of Alignments: 	4
+ReadName: r105	PositionL 777	Alignment: TCGATA	Strand: -	Number of Alignments: 	2
+ReadName: r106	PositionL 454	Alignment: GGCGGG	Strand: -	Number of Alignments: 	2
+ReadName: r107	Position: 338	Alignment: TGCGAG	Strand: +	Number of Alignments: 	3
+ReadName: r108	PositionL 1075	Alignment: CGACTT	Strand: -	Number of Alignments: 	1
+ReadName: r109	PositionL 527	Alignment: CGCTGA	Strand: -	Number of Alignments: 	3
+ReadName: r110	PositionL 479	Alignment: TCGCCA	Strand: -	Number of Alignments: 	3
+ReadName: r111	Position: 10	Alignment: TTCTGA	Strand: +	Number of Alignments: 	2
+ReadName: r112	PositionL 87	Alignment: ACGGCA	Strand: -	Number of Alignments: 	2
+ReadName: r113	Position: 645	Alignment: TGTCCT	Strand: +	Number of Alignments: 	2
+ReadName: r114	PositionL 751	Alignment: CGCTTC	Strand: -	Number of Alignments: 	2
+ReadName: r115	Position: 346	Alignment: TTGAAG	Strand: +	Number of Alignments: 	2
+ReadName: r116	PositionL 358	Alignment: TGTACC	Strand: -	Number of Alignments: 	1
+ReadName: r117	PositionL 47	Alignment: TTTTTT	Strand: -	Number of Alignments: 	8
+ReadName: r118	PositionL 239	Alignment: CGTTAC	Strand: -	Number of Alignments: 	3
+ReadName: r119	Position: 461	Alignment: AAATCA	Strand: +	Number of Alignments: 	2
+ReadName: r120	Position: 436	Alignment: GCCACC	Strand: +	Number of Alignments: 	3
+ReadName: r121	Position: 174	Alignment: AGAGTA	Strand: +	Number of Alignments: 	2
+ReadName: r122	PositionL 191	Alignment: GTTTCA	Strand: -	Number of Alignments: 	2
+ReadName: r123	Position: 211	Alignment: ATTACC	Strand: +	Number of Alignments: 	6
+ReadName: r124	PositionL 1107	Alignment: TAGGAA	Strand: -	Number of Alignments: 	1
+ReadName: r125	Position: 74	Alignment: TGAACT	Strand: +	Number of Alignments: 	1
+ReadName: r126	PositionL 85	Alignment: GGCAGG	Strand: -	Number of Alignments: 	4
+ReadName: r127	Position: 1121	Alignment: CTAAAG	Strand: +	Number of Alignments: 	1
+ReadName: r128	Position: 246	Alignment: TGCGGG	Strand: +	Number of Alignments: 	4
+ReadName: r129	Position: 157	Alignment: AGACAG	Strand: +	Number of Alignments: 	1
+ReadName: r130	PositionL 174	Alignment: TACTCT	Strand: -	Number of Alignments: 	2
+ReadName: r131	Position: 432	Alignment: GGTGGC	Strand: +	Number of Alignments: 	3
+ReadName: r132	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r133	Position: 842	Alignment: AGTCCA	Strand: +	Number of Alignments: 	1
+ReadName: r134	PositionL 854	Alignment: CAATAC	Strand: -	Number of Alignments: 	1
+ReadName: r135	Position: 165	Alignment: AAAAAT	Strand: +	Number of Alignments: 	3
+ReadName: r136	PositionL 180	Alignment: GTTGTG	Strand: -	Number of Alignments: 	2
+ReadName: r137	Position: 393	Alignment: TGTTGC	Strand: +	Number of Alignments: 	2
+ReadName: r138	PositionL 1017	Alignment: ACGTCC	Strand: -	Number of Alignments: 	1
+ReadName: r139	PositionL 369	Alignment: TTTGCC	Strand: -	Number of Alignments: 	4
+ReadName: r140	PositionL 714	Alignment: TTCTCG	Strand: -	Number of Alignments: 	1
+ReadName: r141	Position: 183	Alignment: AACATC	Strand: +	Number of Alignments: 	1
+ReadName: r142	Position: 1121	Alignment: CTAAAG	Strand: +	Number of Alignments: 	1
+ReadName: r143	Position: 1037	Alignment: CCTGCG	Strand: +	Number of Alignments: 	1
+ReadName: r144	PositionL 979	Alignment: GGCAGC	Strand: -	Number of Alignments: 	1
+ReadName: r145	Position: 144	Alignment: AGGCAT	Strand: +	Number of Alignments: 	1
+ReadName: r146	Position: 57	Alignment: TGTCTG	Strand: +	Number of Alignments: 	2
+ReadName: r147	Position: 245	Alignment: GTGCGG	Strand: +	Number of Alignments: 	4
+ReadName: r148	PositionL 252	Alignment: CGTCAG	Strand: -	Number of Alignments: 	2
+ReadName: r149	Position: 597	Alignment: GGCGCA	Strand: +	Number of Alignments: 	1
+ReadName: r150	PositionL 611	Alignment: CGAAAG	Strand: -	Number of Alignments: 	1
+ReadName: r151	PositionL 339	Alignment: ACTCGC	Strand: -	Number of Alignments: 	2
+ReadName: r152	PositionL 581	Alignment: CCGGCT	Strand: -	Number of Alignments: 	2
+ReadName: r153	Position: 650	Alignment: TGCATG	Strand: +	Number of Alignments: 	1
+ReadName: r154	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r155	Position: 109	Alignment: TATTGA	Strand: +	Number of Alignments: 	1
+ReadName: r156	PositionL 121	Alignment: TAGTGA	Strand: -	Number of Alignments: 	1
+ReadName: r157	Position: 956	Alignment: CCGAC	Strand: +	Number of Alignments: 	2
+ReadName: r158	PositionL 248	Alignment: AGCCCG	Strand: -	Number of Alignments: 	3
+ReadName: r159	Position: 419	Alignment: CCAGGC	Strand: +	Number of Alignments: 	1
+ReadName: r160	PositionL 368	Alignment: TGCCA	Strand: -	Number of Alignments: 	7
+ReadName: r161	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r162	PositionL 198	Alignment: CTAATG	Strand: -	Number of Alignments: 	3
+ReadName: r163	Position: 558	Alignment: TTTGAC	Strand: +	Number of Alignments: 	1
+ReadName: r164	Position: 354	Alignment: CGGCGG	Strand: +	Number of Alignments: 	4
+ReadName: r165	PositionL 165	Alignment: ATTTTT	Strand: -	Number of Alignments: 	3
+ReadName: r166	PositionL 556	Alignment: CAAAAG	Strand: -	Number of Alignments: 	1
+ReadName: r167	Position: 717	Alignment: GAAAAT	Strand: +	Number of Alignments: 	1
+ReadName: r168	PositionL 726	Alignment: GCGATC	Strand: -	Number of Alignments: 	1
+ReadName: r169	Position: 516	Alignment: TTTACC	Strand: +	Number of Alignments: 	1
+ReadName: r170	PositionL 526	Alignment: GCTGAT	Strand: -	Number of Alignments: 	4
+ReadName: r171	Position: 827	Alignment: CCGTCGA	Strand: +	Number of Alignments: 	1
+ReadName: r172	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r173	Position: 210	Alignment: CATTAC	Strand: +	Number of Alignments: 	5
+ReadName: r174	PositionL 420	Alignment: TGCCTG	Strand: -	Number of Alignments: 	3
+ReadName: r175	Position: 1065	Alignment: GAGGTT	Strand: +	Number of Alignments: 	1
+ReadName: r176	PositionL 1079	Alignment: ACATCG	Strand: -	Number of Alignments: 	1
+ReadName: r177	Position: 207	Alignment: CACCAT	Strand: +	Number of Alignments: 	5
+ReadName: r178	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r179	Position: 49	Alignment: AAAAAG	Strand: +	Number of Alignments: 	4
+ReadName: r180	PositionL 475	Alignment: CACCAG	Strand: -	Number of Alignments: 	3
+ReadName: r181	PositionL 1311	Alignment: CCTTTC	Strand: -	Number of Alignments: 	1
+ReadName: r182	Position: 5	Alignment: TTTCAT	Strand: +	Number of Alignments: 	4
+ReadName: r183	Position: 873	Alignment: TCCGGC	Strand: +	Number of Alignments: 	1
+ReadName: r184	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r185	Position: 745	Alignment: GTATTA	Strand: +	Number of Alignments: 	1
+ReadName: r186	PositionL 869	Alignment: GAATGC	Strand: -	Number of Alignments: 	1
+ReadName: r187	Position: 507	Alignment: CCAGGA	Strand: +	Number of Alignments: 	2
+ReadName: r188	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r189	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r190	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r191	Position: 277	Alignment: AAAGCC	Strand: +	Number of Alignments: 	2
+ReadName: r192	PositionL 290	Alignment: ACTGTC	Strand: -	Number of Alignments: 	1
+ReadName: r193	Position: 391	Alignment: CGTGTT	Strand: +	Number of Alignments: 	1
+ReadName: r194	PositionL 407	Alignment: TTTCCA	Strand: -	Number of Alignments: 	2
+ReadName: r195	PositionL 50	Alignment: TCTTTT	Strand: -	Number of Alignments: 	1
+ReadName: r196	PositionL 564	Alignment: AGTCCC	Strand: -	Number of Alignments: 	1
+ReadName: r197	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r198	PositionL 42	Alignment: TAATCC	Strand: -	Number of Alignments: 	1
+ReadName: r199	Position: 195	Alignment: ACGCAT	Strand: +	Number of Alignments: 	1
+ReadName: r200	Position: 0	Strand: *	Number of Alignments: 0	
+ReadName: r201	Position: 336	Alignment: CATGCG	Strand: +	Number of Alignments: 	1
+ReadName: r202	PositionL 353	Alignment: CGCCGA	Strand: -	Number of Alignments: 	3
+ReadName: r203	Position: 1298	Alignment: CTGGTC	Strand: +	Number of Alignments: 	1
+ReadName: r204	Position: 5	Alignment: TTTCAT	Strand: +	Number of Alignments: 	4
+ReadName: r205	Position: 1120	Alignment: GCTAAA	Strand: +	Number of Alignments: 	1
+ReadName: r206	PositionL 453	Alignment: GCGGGG	Strand: -	Number of Alignments: 	2
+ReadName: r207	PositionL 47	Alignment: TTTTTT	Strand: -	Number of Alignments: 	8
+ReadName: r208	PositionL 239	Alignment: CGTTAC	Strand: -	Number of Alignments: 	3
+ReadName: r209	Position: 72	Alignment: TCTGAA	Strand: +	Number of Alignments: 	2
+ReadName: r210	PositionL 1284	Alignment: AACATT	Strand: -	Number of Alignments: 	1
+ReadName: r211	Position: 1138	Alignment: CGCACCA	Strand: +	Number of Alignments: 	1
+ReadName: r212	PositionL 209	Alignment: TAATGG	Strand: -	Number of Alignments: 	5
+ReadName: r213	Position: 1154	Alignment: TCGCCC	Strand: +	Number of Alignments: 	1
+ReadName: r214	PositionL 1165	Alignment: GATCTG	Strand: -	Number of Alignments: 	1
+ReadName: r215	PositionL 339	Alignment: ACTCGC	Strand: -	Number of Alignments: 	2
+ReadName: r216	PositionL 582	Alignment: CCCGGC	Strand: -	Number of Alignments: 	1
+ReadName: r217	Position: 75	Alignment: GAACTG	Strand: +	Number of Alignments: 	3
+ReadName: r218	PositionL 86	Alignment: CGGCAG	Strand: -	Number of Alignments: 	1
